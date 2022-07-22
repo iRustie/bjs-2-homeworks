@@ -18,6 +18,7 @@ function getArrayParams(arr) {
   console.log(avg);
   return { min: min, max: max, avg: avg };
 }
+//почему-то avg выдает 0..
 
 // Задание 2
 function worker(arr) {
